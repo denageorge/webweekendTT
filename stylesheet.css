@@ -1,0 +1,11 @@
+body
+{
+  background-color: pink;
+   font-family: "Lucida Console", Courier, monospace;
+}
+h1{
+  color: red;
+border: 2px solid white;
+  padding: 30px;
+
+}
